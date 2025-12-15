@@ -9,6 +9,9 @@
 ![Docker Logo](img.shields.io)
 ![License MIT](img.shields.io)
 
+![Мій арт](./![Uploading cope-main.dart.jpg…]()
+)
+
 ---
 
 ⚠️ **ПОПЕРЕДЖЕННЯ: Вміст для дорослих** ⚠️
@@ -39,4 +42,3 @@ git clone github.com
 cd your-repo-name
 
 
-![Альтернативний текст зображення](https://wimg.rule34.xxx/thumbnails/4789/thumbnail_a1586802bd20fb84d4d3a788d664919039ae1aa2.jpg?15817839)
