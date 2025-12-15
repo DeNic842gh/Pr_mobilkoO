@@ -2,7 +2,7 @@
 
 
 
-# NSFW AI Art Generator (18+)
+# DeNic842gh AI Art Generator (18+)
 
 ![Мій арт](./cope-main.dart.jpg)
 
