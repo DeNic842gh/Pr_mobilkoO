@@ -9,7 +9,7 @@
 ![Docker Logo](img.shields.io)
 ![License MIT](img.shields.io)
 
-![Мій арт](./!cope-main.dart.jpg)
+![Мій арт](./cope-main.dart.jpg)
 
 
 ---
